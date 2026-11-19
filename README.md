@@ -2,4 +2,4 @@
 
 
 ## Equipe
-![equipe](https://github.com/blabrunhosa/modelagem-de-prpcwd-em-neuronios/blob/figuras/Joaquim%20%281%29.png?raw=true)
+![equipe](https://raw.githubusercontent.com/blabrunhosa/modelagem-de-prpcwd-em-neuronios/figuras/Joaquim%20%281%29.png)
